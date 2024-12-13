@@ -39,9 +39,9 @@
 
 <script setup>
 import GuestLayout from "../components/GuestLayout.vue";
-
-function  login() {
-    console.log('I am login');
+// import { LockClosedIcon } from "@heroicons/vue/solid";
+// function  login() {
+//     console.log('I am login');
     
-}
+// }
 </script>
