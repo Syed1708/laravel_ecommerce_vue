@@ -2,8 +2,13 @@ import {createStore} from "vuex"
 
 const store = createStore({
    state: {
-      test : '56622'
+      user:{
+         token : '22',
+         data: {}
+      }
+      
    },
+
    getters: {},
    actions: {},
    mutations: {}		
